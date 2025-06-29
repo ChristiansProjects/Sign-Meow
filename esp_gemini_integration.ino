@@ -6,7 +6,7 @@
 // Wi-Fi credentials and Gemini API key
 const char* ssid = "test";
 const char* password = "testing123";
-const char* api_key = "AIzaSyCaV7n-BV78lCJeuwsrKc3tbJnqnsxr5Ac";
+const char* api_key = "";
 
 // LCD pin configuration: RS, EN, D4, D5, D6, D7 → GPIOs
 LiquidCrystal lcd(19, 23, 18, 17, 16, 15);
